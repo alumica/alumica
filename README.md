@@ -1,2 +1,2 @@
 - 👋 Xin chào mọi người!
-![Code code](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif)
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="60" height="60" />
